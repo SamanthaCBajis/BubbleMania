@@ -1,6 +1,8 @@
 # BubbleMania
 An example video of this application built and running on device can be found on my [YouTube Channel.](https://youtu.be/KkJ8YoGrcLY "YouTube")
 <br />
+<br /> ![img-2391](https://user-images.githubusercontent.com/35173600/40018363-0d6a2416-578a-11e8-9124-92721615a6ca.png)
+<br />
 <br /> A Unity/Vuforia mobile application called **_Bubble Mania_** where user interacts with a 3D model treasure chest augmented from a live photo of the same object. The user will be able to open and close the chest at will, as well as spwan endless bubbles for engagement, distraction and tons of fun!
 <br />
 <br /> Please print this image (best would be paste it to a Word document and cut out)
@@ -44,9 +46,13 @@ When building the application to your phone an important note:
 ## How to play
 To bring the application **_Bubble Mania_** to life for a bit of magic and fun!
 <br />
-<br /> • After printing the image above then successfully downloading it and building it on device, opening the application on your phone, hold the devices camera towards the printed photo. 
+<br /> ![img-2386](https://user-images.githubusercontent.com/35173600/40018399-267d83da-578a-11e8-9a08-998c970af334.png)
+<br />
+<br /> • After printing the image above then successfully downloading it and building it on device, opening the application on your phone, hold the devices camera towards the printed photo.
 <br />
 <br /> • The teasure chest will appear on top of the chest in the photo. Tap on the top of the teasure chest to open and close it as well as tap the bottom of the chest to spwan random bubbles endlessly for distraction and enjoyment.
+<br />
+<br /> ![img-2388](https://user-images.githubusercontent.com/35173600/40018434-4117b29c-578a-11e8-9f43-9854d6e840e6.png)
 <br />
 <br /> • NOTE! The tracking only works with the image and with the chest in the line of the camera. Please don't shake the device or get too close to the image if the images to not appear right away. Simply look for a better angle to get it to appear on your device.
 
