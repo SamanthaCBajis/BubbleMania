@@ -54,7 +54,7 @@ To bring the application **_Bubble Mania_** to life for a bit of magic and fun!
 • Samantha Cayla Bajis - _Initial work_ - SamBajis
 
 # Acknowledgments
-To make **_ShapestoLife_** possible:
+To make **_Bubble Mania_** possible:
 <br /> 
 <br /> • Google Images - Provided the image used to create application object
 <br /> 
